@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "name": "Perfume Carolina Herrera",
+      "price": 129.49,
+      "rating": 4,
+      "image": "assets/styles/images/carolina-herrera.png"
+    },
+    {
+      "id": 2,
+      "name": "Maquiagem Mac",
+      "price": 199.99,
+      "rating": 5,
+      "image": "assets/styles/images/mac.png"
+    },
+    {
+      "id": 3,
+      "name": "Blush Dior",
+      "price": 2276.1,
+      "rating": 5,
+      "image": "assets/styles/images/blush-dior.png"
+    },
+    {
+      "id": 4,
+      "name": "Bota Melissa",
+      "price": 350.5,
+      "rating": 4,
+      "image": "assets/styles/images/bota-melissa.png"
+    },
+    {
+      "id": 5,
+      "name": "Bota Melissa",
+      "price": 350.5,
+      "rating": 4,
+      "image": "assets/styles/images/bota-melissa.png"
+    },
+    {
+      "id": 6,
+      "name": "Perfume Carolina Herrera",
+      "price": 129.49,
+      "rating": 4,
+      "image": "assets/styles/images/carolina-herrera.png"
+    }
+  ]
