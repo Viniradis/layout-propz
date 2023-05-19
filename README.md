@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://d27i7n2isjbnbi.cloudfront.net/careers/photos/171238/normal_photo_1590607199.png" alt="logo-tesla" width="300"> </p>
+<p align="center"> <img src="https://d27i7n2isjbnbi.cloudfront.net/careers/photos/171238/normal_photo_1590607199.png" width="300"> </p>
 
 
 
@@ -31,7 +31,7 @@ Para  esse layout, escolhi usar as tecnologias e ferramentas como HTML, CSS, Jav
 
 <table align="center">
    <tr>
-    <td valign="top"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjQ0YWQ3ZDMxNzQwZWU4OWU0ZjIwZDM3NTM2NjQ0MDU2MjgzZGVjOSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/pzzhw4Neofz9kJWDMA/giphy.gif"
+    <td valign="top"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjY5YWE1Y2NjNDU1ZWUwYTZiZGE5MjQwOWU5ZGQ4OWU2OTE3ZGZlOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/7BFbZZfQvpenCSncZX/giphy.gif"
 "
 "> </td>
     
